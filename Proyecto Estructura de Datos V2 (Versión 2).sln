@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto Estructura de Datos V2 (Versión 2)", "Proyecto Estructura de Datos V2 (Versión 2)\Proyecto Estructura de Datos V2 (Versión 2).csproj", "{D13599E0-6007-410B-B405-6297FE8DA900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13599E0-6007-410B-B405-6297FE8DA900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13599E0-6007-410B-B405-6297FE8DA900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13599E0-6007-410B-B405-6297FE8DA900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13599E0-6007-410B-B405-6297FE8DA900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A45B088C-EBCA-496B-9C9C-A80DFA187B7F}
+	EndGlobalSection
+EndGlobal
